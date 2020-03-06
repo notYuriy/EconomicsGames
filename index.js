@@ -1,6 +1,6 @@
 var images_names = [
     "res/circle.jpg",
-    "res/donut.jpg",
+    "res/triangle.jpg",
     "res/square.jpg",
     "res/donut.jpg",
     "res/donut.jpg"
